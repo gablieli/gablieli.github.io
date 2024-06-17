@@ -12,7 +12,7 @@ urls:
       url: /
     - text: About Me
       url: /about
-    - text: Contact
+    - text: Contact Information
       url : /contact
 
 
@@ -24,8 +24,8 @@ author_bio: Hi, my name is Elizabeth Gabli.
 author_email: "gablieli@msu.edu"
 author_location: Michigan
 author_website_url: "https://github.com/gablieli/gablieli.github.io"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+typewrite-text: 
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -73,16 +73,16 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+              - project_thumbnail: 
+                project_title: 
+                project_description:
+                project_url: 
+                visibility: false
+              - project_thumbnail: 
+                project_title: 
+                project_description:
+                project_url: 
+                visibility: false
 
 
 # social links
@@ -119,7 +119,7 @@ permalink: pretty
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
 show_author_education_details: true
-show_author_project_details: true
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4
