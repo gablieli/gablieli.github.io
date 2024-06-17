@@ -10,21 +10,15 @@ baseurl: ""
 urls:
     - text: Home
       url: /
-    - text: About
+    - text: About Me
       url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: gablieli.png
 author: Elizabeth Gabli
 author_bio: Hi, my name is Elizabeth Gabli.
 author_email: "gablieli@msu.edu"
