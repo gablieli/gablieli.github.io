@@ -12,9 +12,6 @@ urls:
       url: /
     - text: About Me
       url: /about/
-    - text: Contact Information
-      url : /contact/
-
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
