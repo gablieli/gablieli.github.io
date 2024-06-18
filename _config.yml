@@ -58,17 +58,23 @@ author_work_experiences:
 
 # Education
 author_education_details:
+              - college_logo: MHS.png
+                college_name: Milford High School
+                college_url:  https://www.hvs.org/o/milford
+                college_degree: High School Deploma
+                description: I attended Milford High School from 2016 to 2020, where I actively participated in both academic and extracurricular activities. As a member of the DECA program, a prominent business organization, I honed my skills in case study analysis, time management, and organization. This experience equipped me with practical knowledge in business operations and strategic planning. Additionally, my involvement in the tennis team exemplified my dedication to teamwork and time management. Through rigorous training and competitive play, I developed valuable interpersonal skills and learned the importance of perseverance and collaboration. Overall, my high school journey was characterized by a balanced commitment to academic excellence and personal growth through active participation in DECA and the tennis team.
+                visibility: true
               - college_logo: OCC.png
                 college_name: Oakland Community College
                 college_url: https://www.oaklandcc.edu/startyoursomeday/?gad_source=1&gclid=CjwKCAjwmrqzBhAoEiwAXVpgomld-DX9dVCQ1WBoCuZ2RZutp6NlMI89rrONYyBJyXNjem7YfYwiOBoCRGsQAvD_BwE&gclsrc=aw.ds
-                college_degree: Business
-                description: Associates Of Business from 2020-2022
+                college_degree: Associates in Business Administration
+                description: From 2020 to 2022, I attended Oakland Community College, where I pursued an Associate in Business Administration degree. During this time, I achieved a GPA of 3.67 and was named to the Dean’s List for four semesters. My coursework provided a solid foundation in business principles and practical skills essential for professional success.
                 visibility: true
               - college_logo: MSU.png
                 college_name: Michigan State University
                 college_url: https://msu.edu/
-                college_degree: Data Science
-                description: College of Natural Science Bachelors in Data Science from 2023-2025
+                college_degree: Bachelors in Data Science 
+                description: Since August 2022, I have been attending Michigan State University's College of Natural Science, pursuing a Bachelor of Data Science. During this time, I have taken multiple coding classes, learning languages such as R, Python, and C++. These courses have provided me with essential programming skills for my degree and future career. In addition to my academic pursuits, I have been actively involved in volunteering with the University Activities Board (UAB), dedicating approximately 10 hours per week from 2022 to 2023. Through my involvement with UAB, I gained valuable experience in event planning on campus, developed goal-setting skills, improved my time management abilities, and learned about budgeting.
                 visibility: true 
 
 # Projects
